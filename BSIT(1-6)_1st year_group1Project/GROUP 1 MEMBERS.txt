@@ -1,0 +1,13 @@
+Group1
+
+1) Project Manager(PM) - Abarquez, Leo C.
+
+2) Business analyst(BA)- Janlou Bernadas
+
+3) System Analyst(SA)-  Katrina Mae Apostol
+
+4) Programmer 1- Joseph Bataller
+
+5) Programmer 2- JM Azur
+
+6) Documentation analyst(DA)- Jasam Andre Antero

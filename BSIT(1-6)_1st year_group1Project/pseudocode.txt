@@ -1,0 +1,25 @@
+start
+	
+	open application
+	input student personal informations
+	input course, year level, and no. of units
+	check terms and conditions
+	select enroll button
+
+
+	accept student personal informations
+	accept course, year level, and no. of units
+	if student_information != ""
+		display "Required Information Acquired"
+		open ".txt" file
+		get student informations
+		display "Required Information Acquired"
+		display .get(student name)
+		display .get(course)
+		display .get(year)
+		save created ".txt" file
+	else:
+		display "All information must be filled up"
+
+end
+	
